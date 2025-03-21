@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", (event) => {
-    alert("DOM fully loaded and parsed");
+    alert("My Queen");
 });
